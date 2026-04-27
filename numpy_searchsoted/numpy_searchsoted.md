@@ -1,8 +1,3 @@
----
-
-# 📄 `numpy_searchsorted.md`
-
-```md
 # `numpy.searchsorted()`
 
 ## Description

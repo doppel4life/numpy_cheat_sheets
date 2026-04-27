@@ -1,8 +1,3 @@
----
-
-# 📄 `numpy_arange.md`
-
-```md
 # `numpy.arange()`
 
 ## Description

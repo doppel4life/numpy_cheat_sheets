@@ -10,10 +10,8 @@ https://numpy.org/doc/stable/reference/index.html
 
 ##  Contents
 
-- [`numpy.searchsorted()`](./numpy_searchsorted.md)
-- [`numpy.arange()`](./numpy_arange.md)
-- [`numpy.column_stack()`](./numpy_column_stackcatenate()`](./numpy_concatenate.md)
-- [`zip()` (Python built-in)](./python_zip.md)
+- [`numpy.searchsorted()`](./numpy_searchsorted/)
+- [`numpy.arange()`](./numpy_arange/)
 
 ---
 
